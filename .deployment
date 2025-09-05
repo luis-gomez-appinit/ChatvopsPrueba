@@ -1,0 +1,2 @@
+[config]
+SCM_BUILD_ARGS=--platform python --platform-version 3.10

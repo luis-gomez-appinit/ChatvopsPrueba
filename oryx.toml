@@ -1,0 +1,5 @@
+[build]
+platform = "python"
+platform-version = "3.10"[build]
+platform = "python"
+platform-version = "3.10"
