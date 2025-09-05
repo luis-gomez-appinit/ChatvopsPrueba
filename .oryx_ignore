@@ -1,0 +1,5 @@
+*.csproj
+*.sln
+*.fsproj
+*.vbproj
+project.json
